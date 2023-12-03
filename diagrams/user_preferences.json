@@ -1,0 +1,43 @@
+{
+    "user_id":"1",
+    "preferences":[
+    {
+        "type_of_feeling":"loves",
+        "artists":["The Beatles"],
+        "albums":"Let It Be",
+        "between":{"first_year":"1960", "second_year":"1980"},
+        "date_added":"16-apr-2021"
+    },
+    {
+        "type_of_feeling":"likes",
+        "artists":["Justin Timberlake"],
+        "before_year":"2005",
+        "date_added":"10-June-2020"
+    },
+    { 
+       "type_of_feeling":"hates",
+        "genre":["electric"],
+        "after_year":"1990",
+        "date_added":"10-may-2017"
+    },
+    {
+        "type_of_feeling":"dislikes",
+        "genre":["hip-hop"],
+        "year":"2000",
+        "date_added":"1-sept-2021"
+    }
+    ]
+}
+
+{
+    "user_id":"1",
+    "preferences":[
+    {
+        "type_of_feeling":"loves",
+        "artists":["The Beatles"],
+        "albums":"Let It Be",
+        "between_years":"1960-1980"
+    },
+    ]
+}
+
